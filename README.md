@@ -10,9 +10,11 @@ Dự án này xây dựng một robot tự hành có khả năng **giải mê cu
 
 
 
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/c4de03b3-d6ac-4a46-8dbb-a374f271d1b8" />
+<img src="https://github.com/user-attachments/assets/c4de03b3-d6ac-4a46-8dbb-a374f271d1b8" width="350"/>
 
-https://drive.google.com/file/d/15IDcdu7uDnC81xKNGSTDM813HmJNBLfA/preview
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c4de03b3-d6ac-4a46-8dbb-a374f271d1b8" width="350"/>
+</p>
 
 
 ---
