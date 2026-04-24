@@ -8,11 +8,12 @@ Dự án này xây dựng một robot tự hành có khả năng **giải mê cu
 
 ## 📸 Demo
 
-[![Maze Robot Demo](https://github.com/user-attachments/assets/c4de03b3-d6ac-4a46-8dbb-a374f271d1b8)](https://drive.google.com/file/d/15IDcdu7uDnC81xKNGSTDM813HmJNBLfA/view?usp=drive_link)
 
-<p align="center">▶ Click to watch full demo video</p>
 
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/c4de03b3-d6ac-4a46-8dbb-a374f271d1b8" />
+
+https://drive.google.com/file/d/15IDcdu7uDnC81xKNGSTDM813HmJNBLfA/preview
+
 
 ---
 
